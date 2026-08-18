@@ -40,9 +40,11 @@ $$
 
 and
 
+
 $$
-\operatorname{diam}(Q_n)=n.
+\mathrm{diam}(Q_n)=n.
 $$
+
 
 The distance analysis also verifies that the number of vertices at
 distance \(i\) from a given vertex is
